@@ -1,0 +1,6 @@
+﻿  Deck.cpp
+C:\Users\mosne\source\repos\Placement Snap Test\Placement Snap Test\Deck.cpp(69,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  main.cpp
+  Generating Code...
+  Placement Snap Test.vcxproj -> C:\Users\mosne\source\repos\Placement Snap Test\Debug\Placement Snap Test.exe
